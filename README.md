@@ -24,6 +24,20 @@ This project demonstrates practical full-stack development skills including:
 - **Frontend**: React 19, Vite, Tailwind CSS 4
 - **Database**: PostgreSQL
 
+## 🖼️ Screenshots
+
+### Home Page
+
+![Sabzi Wala Home Page](demo/home_page.png)
+
+### Place Order
+
+![Sabzi Wala Place Order Modal](demo/place_order.png)
+
+### Order Success
+
+![Sabzi Wala Order Success State](demo/order_success.png)
+
 ## 🚀 Quick Start
 
 1. **Clone repository:**
@@ -83,6 +97,7 @@ sabzi-wala/
 │   ├── core/                  # Django project settings and routes
 │   ├── marketplace/           # Main app: models, serializers, views, URLs
 │   └── manage.py              # Django management script
+├── demo/                      # README screenshots and demo images
 ├── frontend/
 │   ├── src/                   # React app source code
 │   ├── public/                # Static frontend assets
